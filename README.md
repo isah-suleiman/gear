@@ -1,8 +1,8 @@
-Data Portfolio: Excel to Tableau
+Data Portfolio: SQL, Excel and Tableau
 
 Table of Contents
 
-#Objective
+# Objective
 
 -   What is the key pain point
 
@@ -259,7 +259,9 @@ GROUP BY
     bra.brand_name
 ```
 
-#Import data from SQl to Microsoft Excel Create a Microsoft Excel file and connect it to the SQL server. Then I import the data into Excel ![Import-Data](assets/images/Import_data_to_excel.png)
+#Import data from SQl to Microsoft Excel Create a Microsoft Excel file and connect it to the SQL server. Then I import the data into Excel 
+
+![Import-Data](assets/images/Import_data_to_excel.png)
 
 # Check if the data is in the right format.
 
@@ -267,7 +269,7 @@ All the data are in the correct format.
 
 # Creating the Charts
 
-1.  Next I'll create 8 different pivot charts and create visualizations fom those charts.
+1.  Next I'll create 8 different pivot charts and create visualizations from those charts.
 2.  The charts include
 
 -   Total Revenue
@@ -277,28 +279,40 @@ All the data are in the correct format.
 -   Revenue Per Brand
 -   Revenue per Product Category
 -   Top 10 Customers
--   Best performing sales Representatives
+-   Best-performing Sales Representatives
+
+### Total Revenue & Total Revenue Per Month
+![Import-Data](assets/images/Total_year_month.png)
+
+### Revenue for Each State and Store
+![Import-Data](assets/images/Revenue_Store_State.png)
+
+### Revenue for Each Brand and Product Category
+![Import-Data](assets/images/Revenue_Brand_Category.png)
+
+### Top 10 Customers & Top Sales Representatives
+![Import-Data](assets/images/Top_Customers_Rep.png)
 
 3.  Create a Dashboard that includes slicers for management
 
 
 # Import the Data Into Tableau to Create an Interactive Dashboard
 
-1. Import the excel version into Tableau
+1. Import the Excel version into Tableau
 2. Confirm the data structure
 3. Create a new worksheet for Revenue per Year
-
+![Import-Data](assets/images/Tab_Rev_Year.png)
 4. Revenue per Month
-
+![Import-Data](assets/images/Tab_Rev_Month.png)
 5. Revenue Per State
-
+![Import-Data](assets/images/Tab_Rev_State.png)
 6. Revenue Per Store
-
+![Import-Data](assets/images/Tab_Rev_Store.png)
 7. Revenue per Brand
-
+![Import-Data](assets/images/Tab_Rev_Brand.png)
 8. Revenue per Category
-
+![Import-Data](assets/images/Tab_Rev_Category.png)
 9. Top 10 Customers
-
+![Import-Data](assets/images/Tab_Top_Customers.png)
 10. Top Sales Rep
-
+![Import-Data](assets/images/Tab_Sales_Rep.png)
