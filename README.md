@@ -25,6 +25,7 @@ We need data on the sales performance including their:\
 
 Where is the data coming from? The data is a sample dataset. I created a script with data and loaded it into MYSQL.
 
+ [see here to find it.](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
 # Stages
 
 Design Development Analysis
@@ -258,7 +259,9 @@ GROUP BY
     CONCAT(sta.first_name, ' ', sta.last_name),
     bra.brand_name
 ```
-
+###
+Final Query
+![Import-Data](assets/images/query.png)
 #Import data from SQl to Microsoft Excel Create a Microsoft Excel file and connect it to the SQL server. Then I import the data into Excel 
 
 ![Import-Data](assets/images/Import_data_to_excel.png)
