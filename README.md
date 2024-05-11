@@ -41,7 +41,7 @@ We need data on the sales performance including their:\
 
 Where is the data coming from? The data is a sample dataset. I created a script with data and loaded it into MYSQL.
 
- [see here to find it.](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
+ [click here to download it.](https://www.sqlservertutorial.net/wp-content/uploads/SQL-Server-Sample-Database.zip)
 # Stages
 
 Design Development Analysis
@@ -345,7 +345,9 @@ All the data are in the correct format.
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/GearShift_Dash.jpg)# Visualization
+![GIF of Power BI Dashboard](assets/images/GearShift_Dash.jpg)
+
+ [click here to view it.](https://public.tableau.com/views/GearShiftDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 ## Discovery
