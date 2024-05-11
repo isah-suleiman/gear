@@ -278,7 +278,7 @@ GROUP BY
 ###
 Final Query
 ![Import-Data](assets/images/query.png)
-#Import data from SQl to Microsoft Excel Create a Microsoft Excel file and connect it to the SQL server. Then I import the data into Excel 
+## Import data from SQl to Microsoft Excel Create a Microsoft Excel file and connect it to the SQL server. Then I import the data into Excel 
 
 ![Import-Data](assets/images/Import_data_to_excel.png)
 
@@ -343,7 +343,7 @@ All the data are in the correct format.
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/GearShift_Dash.png)# Visualization
+![GIF of Power BI Dashboard](assets/images/GearShift_Dash.jpg)# Visualization
 
 
 ## Discovery
