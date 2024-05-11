@@ -321,3 +321,94 @@ All the data are in the correct format.
 ![Import-Data](assets/images/Tab_Top_Customers.png)
 10. Top Sales Rep
 ![Import-Data](assets/images/Tab_Sales_Rep.png)
+
+## Discovery
+
+- What did we learn?
+
+We discovered that 
+
+
+1. 2017 was our most profitable year in business with off-the-charts profit.
+2. Mountain bikes over the past three years were the most profitable product category.
+3. Trek Mountain Bike was the most bought across all our stores.
+4. New York was the highest-grossing state.
+5. Marcelene Boyer made the most sales across all categories.
+
+
+### Action plan
+Certainly! Let's create an action plan based on the findings you've shared:
+
+1. Leverage the Success of 2017:
+- Analyze what made 2017 so profitable. Were there specific marketing strategies, product launches, or operational changes that contributed to the success? Consider replicating those successful tactics in the current year.
+- Review financial reports and identify patterns or trends from 2017. Use this information to inform your decision-making going forward.
+
+2. Focus on Mountain Bikes:
+- Given that mountain bikes have been consistently profitable over the past three years, allocate more resources (both in terms of inventory and marketing efforts) to this product category.
+- Consider expanding your mountain bike offerings by introducing new models or collaborating with popular brands.
+
+3. Promote Trek Mountain Bikes:
+- Since Trek Mountain Bike was the most purchased product across all your stores, create targeted marketing campaigns specifically for this brand.
+- Highlight the unique features, quality, and benefits of Trek Mountain Bikes through social media, email newsletters, and in-store displays.
+
+4. Target New York Customers:
+- New York was the highest-grossing state. Invest in localized marketing efforts for this region.
+- Collaborate with local influencers, participate in community events, and run geo-targeted online ads to attract New York customers.
+
+5. Recognize Marcelene Boyer:
+- Marcelene Boyer made the most sales across all categories. Show appreciation for her outstanding performance.
+- Consider implementing an employee recognition program, offering incentives, or publicly acknowledging her achievements within your organization.
+
+### What steps do we take to implement the recommended decisions effectively?
+1. Leverage the Success of 2017:
+- Analyze the Factors: Dive deeper into what contributed to the exceptional profitability in 2017. Was it a specific marketing campaign, product quality, or operational efficiency? Gather data and insights.
++ Replicate Successful Strategies: Identify the successful strategies and replicate them. For instance:
++ If a particular marketing channel (e.g., social media, email) worked well, allocate resources accordingly.
++ If a product launch was particularly successful, consider similar launches.
+- Set Clear Goals: Define specific goals for the current year based on the 2017 success. For example:
++ Increase overall revenue by X%.
++ Achieve a specific profit margin.
++ Monitor Progress: Regularly track progress against these goals and adjust strategies as needed.
+
+2. Focus on Mountain Bikes:
+   - Inventory Management:
+     + Ensure sufficient stock of mountain bikes.
+   + Consider seasonal trends (e.g., summer months may see higher demand).
+ - Marketing Efforts:
++ Create targeted marketing campaigns for mountain bikes:
++ Showcase features, durability, and benefits.
++ Use social media (Instagram, Facebook), email newsletters, and website banners.
+   - Collaborate with Suppliers:
++ Work closely with suppliers to ensure timely availability of mountain bike models.
++ Explore exclusive deals or partnerships.
+
+3. Promote Trek Mountain Bikes:
+   - Content Creation:
+     + Develop engaging content specifically for Trek Mountain Bikes:
+     + High-quality images and videos.
+     + Customer testimonials.
+     + Comparison with other brands.
+   - In-Store Displays:
+     + Highlight Trek Mountain Bikes prominently in your physical stores.
+     + Use eye-catching displays and signage.
+   - Online Presence:
+     + Optimize your website for Trek Mountain Bikes.
+     + Use relevant keywords for search engine optimization (SEO).
+
+4. Target New York Customers:
+   - Localized Marketing:
+     + Identify New York-specific marketing opportunities:
+       + Collaborate with local influencers or bloggers.
+       + Sponsor local events.
+       + Participate in community fairs or markets.
+   - Geo-Targeted Ads:
+     + Run online ads specifically targeting New York customers.
+     + Use platforms like Google Ads or Facebook Ads with location targeting.
+
+5. Recognize Marcelene Boyer:
+   - Employee Recognition:
+     + Publicly acknowledge Marcelene's achievements:
+       + Mention her in company newsletters or social media posts.
+       + Host an employee appreciation event.
+  + Consider incentives (e.g., bonuses, gift cards) for outstanding performance.
+
