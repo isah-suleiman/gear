@@ -3,6 +3,20 @@
 ![Import-Data](assets/images/bike.png)
 
 Table of Contents
+- [Objective](#objective)
+- [Data Source](#data-source)
+- [Stages](#stages)
+- [Design](#design)
+  - [Tools](#tools)
+- [Development](#development)
+  - [Pseudocode](#pseudocode)
+  - [Data Exploration](#data-exploration)
+  - [Transform the Data](#transform-the-data)
+- [Visualization](#visualization)
+- [Analysis](#analysis)
+  - [Findings](#findings)
+- [Recommendations](#recommendations)
+
 
 # Objective
 
@@ -321,6 +335,16 @@ All the data are in the correct format.
 ![Import-Data](assets/images/Tab_Top_Customers.png)
 10. Top Sales Rep
 ![Import-Data](assets/images/Tab_Sales_Rep.png)
+
+# Visualization 
+
+
+## Results
+
+- What does the dashboard look like?
+
+![GIF of Power BI Dashboard](assets/images/GearShift_Dash.png)# Visualization
+
 
 ## Discovery
 
