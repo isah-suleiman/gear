@@ -371,14 +371,14 @@ Certainly! Let's create an action plan based on the findings you've shared:
 + Monitor Progress: Regularly track progress against these goals and adjust strategies as needed.
 
 2. Focus on Mountain Bikes:
-   - Inventory Management:
-     + Ensure sufficient stock of mountain bikes.
-   + Consider seasonal trends (e.g., summer months may see higher demand).
+ - Inventory Management:
++ Ensure sufficient stock of mountain bikes.
++ Consider seasonal trends (e.g., summer months may see higher demand).
  - Marketing Efforts:
 + Create targeted marketing campaigns for mountain bikes:
 + Showcase features, durability, and benefits.
 + Use social media (Instagram, Facebook), email newsletters, and website banners.
-   - Collaborate with Suppliers:
+ - Collaborate with Suppliers:
 + Work closely with suppliers to ensure timely availability of mountain bike models.
 + Explore exclusive deals or partnerships.
 
@@ -398,9 +398,9 @@ Certainly! Let's create an action plan based on the findings you've shared:
 4. Target New York Customers:
    - Localized Marketing:
      + Identify New York-specific marketing opportunities:
-       + Collaborate with local influencers or bloggers.
-       + Sponsor local events.
-       + Participate in community fairs or markets.
+     + Collaborate with local influencers or bloggers.
+     + Sponsor local events.
+     + Participate in community fairs or markets.
    - Geo-Targeted Ads:
      + Run online ads specifically targeting New York customers.
      + Use platforms like Google Ads or Facebook Ads with location targeting.
@@ -408,7 +408,7 @@ Certainly! Let's create an action plan based on the findings you've shared:
 5. Recognize Marcelene Boyer:
    - Employee Recognition:
      + Publicly acknowledge Marcelene's achievements:
-       + Mention her in company newsletters or social media posts.
-       + Host an employee appreciation event.
-  + Consider incentives (e.g., bonuses, gift cards) for outstanding performance.
+     + Mention her in company newsletters or social media posts.
+     + Host an employee appreciation event.
+     + Consider incentives (e.g., bonuses, gift cards) for outstanding performance.
 
