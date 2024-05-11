@@ -1,4 +1,6 @@
-Data Portfolio: SQL, Excel and Tableau
+# Data Portfolio: SQL, Excel, and Tableau
+
+![Import-Data](assets/images/bike.png)
 
 Table of Contents
 
@@ -8,7 +10,7 @@ Table of Contents
 
 The company's management seeks to enhance their understanding of sales performance and identify trends within their sales data from 2016 to 2018. By delving into various dimensions of sales activity, they aim to extract actionable insights to inform strategic decisions
 
--   What is the ideal solution? TO create a dashboard that provides insights into sales and profit for across all regions. including their
+-   What is the ideal solution? To create a dashboard that provides insights into sales and profit for across all regions. including their
 -   Revenue per Year
 -   Revenue per Month
 -   Total Units Sold
@@ -18,7 +20,7 @@ This will help management know the most profitable stores over the past three ye
 
 # Data Source
 
--   What data is needed to acheive our objective?
+-   What data is needed to achieve our objective?
 
 We need data on the sales performance including their:\
 - Revenue per Store - Revenue per product - Revenue per Sales Rep - Top Customers
@@ -44,7 +46,7 @@ To understand what it should contain, we need to figure out what questions we ne
 4.  What is the revenue per store?
 5.  What are the most profitable brands?
 6.  Who are the top customers?
-7.  Who is the top performing sales representative?
+7.  Who is the top-performing sales representative?
 
 For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
 
@@ -75,26 +77,26 @@ For now, these are some of the questions we need to answer, this may change as w
 
 # Data Creation
 
-After downloading the dataset, I applied the following steps. 1. Opened SQL server, created a new database and named it Bikestores 2. Select the new Bikestores database in SQL server. 3. Open the 'create objects' query file and then execute it in the SQL server for the BikeStores database. 4. Opned the 'load data' query file and then execute it in SQL server for te database.'
+After downloading the dataset, I applied the following steps. 1. Opened SQL server, created a new database, and named it Bikestores 2. Select the new Bikestores database in the SQL server. 3. Open the 'create objects' query file and then execute it in the SQL server for the BikeStores database. 4. Opened the 'load data' query file and then executed it in the SQL server for the database.'
 
 ## Data exploration notes
 
-This is the stage where you have a scan of what's in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc
+This is the stage where you have a scan of what's in the data, errors, inconsistencies, bugs, weird and corrupted characters, etc
 
 -   What are your initial observations with this dataset? What's caught your attention so far?
 
-1.  The required fields are scattred around nine tables. so I would have to join the tables to extract the data.
+1.  The required fields are scattered around nine tables. so I would have to join the tables to extract the data.
 
 2.  The primary key in one table is a foreign key in another so we can join them together.
 
 ### Transform the data
 
-``` sql
+``` SQL
 /*
 # 1. Select id, customer name, city state order_date
 # 2. We need the sales volume and the total revenue generated
-# 3. Next we add the name of the products 
-# 4. Next I'll add the category of the products that were purchased.
+# 3. Next, we add the name of the products 
+# 4. Next, I'll add the category of the products that were purchased.
 # 5. I'll then add the stores in which the sales took place
 # 6. I'll then add the sales rep that made the sale
 */
