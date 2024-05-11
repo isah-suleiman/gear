@@ -1,4 +1,4 @@
-# Data Portfolio: SQL, Excel, and Tableau
+# Data Portfolio: Gear Shift Revenue analysis
 
 ![Import-Data](assets/images/bike.png)
 
@@ -275,8 +275,7 @@ GROUP BY
     CONCAT(sta.first_name, ' ', sta.last_name),
     bra.brand_name
 ```
-###
-Final Query
+### Final Query
 ![Import-Data](assets/images/query.png)
 ## Import 
 - Create a new Microsoft Excel file
