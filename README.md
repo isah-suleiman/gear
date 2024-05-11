@@ -278,7 +278,10 @@ GROUP BY
 ###
 Final Query
 ![Import-Data](assets/images/query.png)
-## Import data from SQl to Microsoft Excel Create a Microsoft Excel file and connect it to the SQL server. Then I import the data into Excel 
+## Import 
+- Create a new Microsoft Excel file
+- Connect it to the SQL server
+- Import the data into Excel 
 
 ![Import-Data](assets/images/Import_data_to_excel.png)
 
